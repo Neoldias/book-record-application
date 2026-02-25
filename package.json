@@ -1,0 +1,23 @@
+{
+  "name": "book-record-application",
+  "version": "1.0.0",
+  "description": "book record management system",
+  "homepage": "https://github.com/Neoldias/book-record-application#readme",
+  "bugs": {
+    "url": "https://github.com/Neoldias/book-record-application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neoldias/book-record-application.git"
+  },
+  "license": "ISC",
+  "author": "neol dias",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
